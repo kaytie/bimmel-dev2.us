@@ -1,6 +1,11 @@
 {
 	"menuLinkText": [
-		"eins",
-		"zwei"
+		"Hire Me, Fire Me"
+	],
+	"collection": [
+		{
+			"sectiontitle": "Hire Me, Fire Me",
+			"sectiontext": "rock"
+		}
 	]
 }
